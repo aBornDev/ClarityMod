@@ -1,0 +1,48 @@
+{
+  "entries": [
+    {
+      "id": "Vigor_desc",
+      "description": "<color=#f90233>10% Health!</color>                                     <color=#7a7a7a>1 Defense</color>"
+    },
+    {
+      "id": "Grit_desc",
+      "description": "<color=#9d8766>8% Armor</color>                                    <color=#7a7a7a>1 Defense</color>"
+    },
+    {
+      "id": "Tempo_desc",
+      "description": "<color=#5f7dad>12% Cooldown</color>                               <color=#13a835>8% Movement Speed</color>"
+    },
+    {
+      "id": "Pace_desc",
+      "description": "<color=#13a835>16% Movement Speed</color>                       <color=#b5e61d>5% Evade</color>"
+    },
+    {
+      "id": "Switch_desc",
+      "description": "<color=#b5e61d>10% Evade</color>                                    <color=#e8d925>6% Critical hit chance</color>"
+    },
+    {
+      "id": "Awe_desc",
+      "description": "<color=#e8d925>12% Critical hit chance</color>                 <color=#e8d925>20% Critical Damage</color>"
+    },
+    {
+      "id": "Rule_desc",
+      "description": "<color=#c60d0d>10% Damage</color>                                 <color=#9d8766>4% Armor</color>"
+    },
+    {
+      "id": "Venture_desc",
+      "description": "<color=#c60d0d>10% Damage</color>                               <color=#13a835>16% Movement Speed</color>                            <color=#5f7dad>12% Cooldowns</color>                                 <color=#f90233>-40% Health!</color>"
+    },
+    {
+      "id": "Pride_desc",
+      "description": "<color=#f90233>Reduces Max Health to 1</color>                   <color=#0060f0>Shields Disabled</color>"
+    },
+    {
+      "id": "Hope_desc",
+      "description": "<color=#f90233>5% Health!</color>                                <color=#13a835>8% Movement Speed</color>                                        <color=#c60d0d>5% Damage</color>                                    <color=#e8d925>6% Critical hit chance</color>"
+    },
+    {
+      "id": "Patience_desc",
+      "description": "<color=#f90233>5% Health!</color>                                  <color=#13a835>8% Movement Speed</color>                                       <color=#9d8766>4% Armor</color>                                      <color=#b5e61d>5% Evade</color>"
+    }
+  ]
+}
