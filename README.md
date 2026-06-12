@@ -10,9 +10,11 @@ All credit for the original mod goes to **Dawnbomb** (coding help by Zandra and 
 
 Requires the [Partiality launcher](https://github.com/PartialityModding/PartialityLauncher) set up for Wizard of Legend.
 
-1. Download the latest release.
+1. Download the latest release from the [Releases page](https://github.com/aBornDev/ClarityMod/releases). If no release has been published yet, build from source (see below) — the build output already has the right layout.
 2. Copy `Wizard Of Legend Clarity Mod.dll` **and** the `ClarityData` folder into the `Mods` folder of your Wizard of Legend install, keeping them next to each other.
 3. Enable the mod in the Partiality launcher and apply.
+
+**Upgrading from 0.6:** since 0.7 the descriptions live in the `ClarityData` folder, not inside the DLL. If you replace only the DLL, the mod will load but won't change any descriptions (it logs `[Clarity] Could not find the ClarityData folder` to the Unity player log). Always copy the `ClarityData` folder along with the DLL.
 
 ## Editing descriptions (no programming needed)
 

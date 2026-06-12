@@ -48,11 +48,21 @@ namespace Wizard_Of_Legend_Clarity_Mod {
 
             On.GameDataManager.LoadInitial += HookLoadInitial;
 
-            objRefType = typeof( WardrobeUI ).GetNestedType( "WardrobeObjRef", BindingFlags.NonPublic );
-            wrRefFieldInfo = typeof( WardrobeUI ).GetField( "wrRef", BindingFlags.NonPublic | BindingFlags.Public | BindingFlags.Instance );
+            //If the game's internals change in an update, fail soft: the affected
+            //hooks are skipped instead of crashing the mod (or the game) on load.
+            try {
+                objRefType = typeof( WardrobeUI ).GetNestedType( "WardrobeObjRef", BindingFlags.NonPublic | BindingFlags.Public );
+                wrRefFieldInfo = typeof( WardrobeUI ).GetField( "wrRef", BindingFlags.NonPublic | BindingFlags.Public | BindingFlags.Instance );
 
-            textField = objRefType.GetField( "infoDescText" );
-            empDescInfo = typeof( TextManager ).GetMethod( "GetEmpoweredDescription", BindingFlags.NonPublic | BindingFlags.Public | BindingFlags.Instance | BindingFlags.Static );
+                textField = objRefType.GetField( "infoDescText", BindingFlags.NonPublic | BindingFlags.Public | BindingFlags.Instance );
+                empDescInfo = typeof( TextManager ).GetMethod( "GetEmpoweredDescription", BindingFlags.NonPublic | BindingFlags.Public | BindingFlags.Instance | BindingFlags.Static );
+            } catch( Exception e ) {
+                Debug.LogError( "[Clarity] Failed to look up game internals. Outfit descriptions will not be replaced." );
+                Debug.LogError( e );
+                objRefType = null;
+                wrRefFieldInfo = null;
+                textField = null;
+            }
         }
 
 
@@ -92,12 +102,20 @@ namespace Wizard_Of_Legend_Clarity_Mod {
             candidates.Add( Path.Combine( Path.Combine( Application.dataPath, ".." ), Path.Combine( "Mods", "ClarityData" ) ) );
             candidates.Add( Path.Combine( Directory.GetCurrentDirectory(), Path.Combine( "Mods", "ClarityData" ) ) );
 
+            string found = null;
+
             foreach( string candidate in candidates ) {
-                if( Directory.Exists( candidate ) )
-                    return candidate;
+                if( !Directory.Exists( candidate ) )
+                    continue;
+
+                if( found == null ) {
+                    found = candidate;
+                } else if( !string.Equals( Path.GetFullPath( candidate ), Path.GetFullPath( found ), StringComparison.OrdinalIgnoreCase ) ) {
+                    Debug.LogWarning( "[Clarity] Found more than one ClarityData folder! Using " + found + " and IGNORING " + candidate + ". Remove the unused one to avoid editing stale data." );
+                }
             }
 
-            return null;
+            return found;
         }
 
         private static List<DescriptionEntry> LoadEntries(string filePath) {
@@ -140,7 +158,11 @@ namespace Wizard_Of_Legend_Clarity_Mod {
                     On.TextManager.GetItemDescription += HookItemDescription;
                     On.TextManager.GetSkillDescription += HookSpellDescription;
                     On.TextManager.GetUIText += HookUIText;
-                    On.WardrobeUI.LoadInfo += HookOutfitLoad;
+
+                    if( wrRefFieldInfo != null && textField != null )
+                        On.WardrobeUI.LoadInfo += HookOutfitLoad;
+                    else
+                        Debug.LogWarning( "[Clarity] Skipping the outfit description hook because the WardrobeUI internals could not be found." );
                 } catch( Exception e ) {
                     Debug.LogError( e );
                 }
@@ -181,7 +203,7 @@ namespace Wizard_Of_Legend_Clarity_Mod {
 
                 if( empowered && text.Second != null )
                     orig_skilldescription += text.Second;
-                else
+                else if( empDescInfo != null )
                     orig_skilldescription += empDescInfo.Invoke( null, new object[] { givenID, empowered, isChaos } ) as String;
 
             }
@@ -213,6 +235,8 @@ namespace Wizard_Of_Legend_Clarity_Mod {
                 object wrRef = wrRefFieldInfo.GetValue( instance );
 
                 Text t = textField.GetValue( wrRef ) as Text;
+                if( t == null )
+                    return;
 
                 string customText;
                 if( CustomUIText.TryGetValue( outfit.outfitID + "_desc", out customText ) ) {
