@@ -1,0 +1,750 @@
+{
+  "entries": [
+    {
+      "id": "FlameStrikeBasic",
+      "category": "Basic",
+      "description": "Blast enemies away with plumes of flames! [<color=#c60d0d>Fire</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "FireBounceBasic",
+      "category": "Basic",
+      "description": "Fling bouncing balls of fire! [<color=#c60d0d>Fire</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "AirSpinBasic",
+      "category": "Basic",
+      "description": "Throw a disc of air into orbit around you! [<color=#4d67a0>Air</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "WindSlashBasic",
+      "category": "Basic",
+      "description": "Summon arcs of slashing wind! [<color=#4d67a0>Air</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "EarthSpikeBasic",
+      "category": "Basic",
+      "description": "Pummel foes with gigantic earth fists! [<color=#844205>Earth</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseRockThrowBasic",
+      "category": "Basic",
+      "description": "Rapidly fire stones! [<color=#844205>Earth</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "ShockTouchBasic",
+      "category": "Basic",
+      "description": "Jolt foes with a burst of electricity! [<color=#ffff00ff>Lightning</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "BoltRailBasic",
+      "category": "Basic",
+      "description": "Direct a short stream of lightning! [<color=#ffff00ff>Lightning</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "IceDaggerBasic",
+      "category": "Basic",
+      "description": "Pierce foes with conjured ice daggers! [<color=#1b78a0>Ice</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "WaterArcBasic",
+      "category": "Basic",
+      "description": "Direct an arcing stream of water! [<color=#3c57e0>Water</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseChaosBasic",
+      "category": "Basic",
+      "description": "Create a chaotic rift to strike foes before compressing it and firing it forward! [<color=#512323>Melee</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "FlameCrossBasic",
+      "category": "Basic",
+      "description": "Fire off waves of criss crossing flames! [<color=#c60d0d>Fire</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "AirDartBasic",
+      "category": "Basic",
+      "description": "Release piercing jet streams of air! [<color=#4d67a0>Air</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "VineWhipBasic",
+      "category": "Basic",
+      "description": "Repeatedly whip a bladed vine to slash foes! [<color=#844205>Earth</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "ThunderOrbBasic",
+      "category": "Basic",
+      "description": "Discharge an electric disc that bursts before dissipating! [<color=#ffff00ff>Lightning</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "AquaCrestBasic",
+      "category": "Basic",
+      "description": "Unleashes a trio of water ripples! [<color=#3c57e0>Water</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "Dash",
+      "category": "Dash",
+      "description": "Dash forward on a burst of air! [<color=#4d67a0>Air</color>]"
+    },
+    {
+      "id": "AirChannelDash",
+      "category": "Dash",
+      "description": "Dash forward and pull enemies into your wake! [<color=#4d67a0>Air</color>]"
+    },
+    {
+      "id": "FireDash",
+      "category": "Dash",
+      "description": "Rush forward and leave flames in your wake! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv2 Burn</color>]"
+    },
+    {
+      "id": "FireMineDash",
+      "category": "Dash",
+      "description": "Rush forward and conjure a volley of accompanying flares! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv1 Burn</color>]"
+    },
+    {
+      "id": "EarthDash",
+      "category": "Dash",
+      "description": "Tear forward leaveing a trail of earthen spikes! [<color=#844205>Earth</color>]"
+    },
+    {
+      "id": "PoisonDash",
+      "category": "Dash",
+      "description": "Tear forward, dropping a toxic bomb that poisons foes! [<color=#8c0497>Lv1 Poison</color>]"
+    },
+    {
+      "id": "IceDash",
+      "category": "Dash",
+      "description": "Race forward while leaving behind a frozen decoy! [<color=#1b78a0>Ice</color>]"
+    },
+    {
+      "id": "WaterDash",
+      "category": "Dash",
+      "description": "Race forward while enveloped in a watery globe that briefly shields you! [<color=#3c57e0>Water</color>]"
+    },
+    {
+      "id": "LightningDash",
+      "category": "Dash",
+      "description": "Jolt ahead and leave behind a line of shocking current! [<color=#ffff00ff>Lightning</color>]"
+    },
+    {
+      "id": "ChainedDash",
+      "category": "Dash",
+      "description": "Jolt ahead, leaving electric orbs that chain together after a short delay! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv1 Shock</color>]"
+    },
+    {
+      "id": "ChaosDash",
+      "category": "Dash",
+      "description": "Dash through a rift torn open by primal chaos!"
+    },
+    {
+      "id": "FlameShieldDash",
+      "category": "Dash",
+      "description": "Rush forward and ignite a fiery aura around you that burns foes you come into contact with! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv1 Burn</color>]"
+    },
+    {
+      "id": "SlicingFieldDash",
+      "category": "Dash",
+      "description": "Dash forward and create a vortex of cutting winds! [<color=#4d67a0>Air</color>]"
+    },
+    {
+      "id": "VineDash",
+      "category": "Dash",
+      "description": "Tear forward as a trio of vines entangle enemies in your wake! [<color=#844205>Earth</color>]"
+    },
+    {
+      "id": "ThunderDash",
+      "category": "Dash",
+      "description": "Jolt ahead as a burst of lightning shocks foes in the area! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv1 Shock</color>]"
+    },
+    {
+      "id": "FrostWingDash",
+      "category": "Dash",
+      "description": "Race forward on frozen wings that unleash a cone of freezing feathers behind you! [<color=#1b78a0>Ice</color>] [<color=#3aa1fc>Freeze</color>]"
+    },
+    {
+      "id": "SummonBoulderShield",
+      "category": "Earth",
+      "description": "Form a protective ring of stone shields! [<color=#844205>Earth</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "SummonChurningEarth",
+      "category": "Earth",
+      "description": "Rupture the earth with tunneling vines to continually damage enemies in a line! [<color=#844205>Earth</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "StalwartDefenders",
+      "category": "Earth",
+      "description": "Form a quartet of chess knights that leap to your defense! [<color=#844205>Earth</color>]"
+    },
+    {
+      "id": "UseDragonStomp",
+      "category": "Earth",
+      "description": "Summon a tunneling dragon that drives away foes! [<color=#844205>Earth</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseShatterStone",
+      "category": "Earth",
+      "description": "Strike a boulder to shatter it into a ring of shrapnel! [<color=#844205>Earth</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseSpikeRing",
+      "category": "Earth",
+      "description": "Pulverize the ground to summon cascading rings of earth spikes! [<color=#844205>Earth</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseEarthJump",
+      "category": "Earth",
+      "description": "Launch into the air and crash down on all nearby foes to stun them! [<color=#844205>Earth</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseThrowBoulder",
+      "category": "Earth",
+      "description": "Hurl a boulder that stuns foes! [<color=#844205>Earth</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseVineWave",
+      "category": "Earth",
+      "description": "Cultivate a row of entwining vines that roots foes! [<color=#844205>Earth</color>] [<color=#8c0497>Lv1 Poison when enhanced</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UsePoisonBolas",
+      "category": "Earth",
+      "description": "Hurl bolas made of toxic vines to entangle and poison foes! [<color=#844205>Earth</color>] [<color=#8c0497>Lv1 Poison</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseGraspingEarth",
+      "category": "Earth",
+      "description": "Grasp all foes in the area with giant stone fists! [<color=#844205>Earth</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseEarthCascade",
+      "category": "Earth",
+      "description": "Unleash a cascade of obsidian daggers! [<color=#844205>Earth</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseEarthMinion",
+      "category": "Earth",
+      "description": "Conjure an agent of earth that crushes foes! [<color=#844205>Earth</color>] [<color=#512323>Melee</color>] [Summon]"
+    },
+    {
+      "id": "UseEarthWard",
+      "category": "Earth",
+      "description": "Form a ward of earth that periodically stuns foes and increases all earth damage done in the area! [<color=#844205>Earth</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseEarthDrill",
+      "category": "Earth",
+      "description": "Drive forward and rock enemies with a giant drill made of stone! [<color=#844205>Earth</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseEarthAxe",
+      "category": "Earth",
+      "description": "Hurl a giant stone axe into the air that crashes down on enemies! [<color=#844205>Earth</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseShieldCharge",
+      "category": "Earth",
+      "description": "Shield incoming attacks as you charge forward, stunning enemies in your path! [<color=#844205>Earth</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseEarthRebound",
+      "category": "Earth",
+      "description": "Mark foes with a series of rocky strikes that explode as you leap back! [<color=#844205>Earth</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseEarthEnhance",
+      "category": "Earth",
+      "description": "Generates a magnetic aura that causes basic arcana to hurl stone projectiles! [<color=#844205>Earth</color>] [<color=#214051>Projectile</color>] [Buff]"
+    },
+    {
+      "id": "UseEarthWheel",
+      "category": "Earth",
+      "description": "Summon a pair of rocky buzzsaws that tear forward! [<color=#844205>Earth</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseWhirlingAxe",
+      "category": "Earth",
+      "description": "Summon and hurl a stone tomahawk at your foes! Can be used repeatedly for a short duration. [<color=#844205>Earth</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseHammerThrow",
+      "category": "Earth",
+      "description": "Solidify a giant hammer of stone and whirl it about before hurling it forward! [<color=#844205>Earth</color>] [<color=#512323>Melee</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "ShootFireball",
+      "category": "Fire",
+      "description": "Fire a massive fireball that explodes on impact! [<color=#c60d0d>Fire</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "ShootFireArc",
+      "category": "Fire",
+      "description": "Summon a torrent of fiery dragons! [<color=#c60d0d>Fire</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "Berserk",
+      "category": "Fire",
+      "description": "Enter a burning rage that speeds up basic arcana! [<color=#c60d0d>Fire</color>] [Buff]"
+    },
+    {
+      "id": "UseFireBlast",
+      "category": "Fire",
+      "description": "Blast away enemies with a breath of fire! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv1 Burn</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "SummonFireWall",
+      "category": "Fire",
+      "description": "Ignite the ground to create a blazing trail of flames! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv1 Burn</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "SummonHomingMissiles",
+      "category": "Fire",
+      "description": "Ignite a halo of flares that home in on the nearest foe! [<color=#c60d0d>Fire</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "SummonMeteorStrike",
+      "category": "Fire",
+      "description": "Call down a meteor from the skies! [<color=#c60d0d>Fire</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseBlazingBlitz",
+      "category": "Fire",
+      "description": "Dash forward and pummel a foe with barrage of fiery punches! [<color=#c60d0d>Fire</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseBlazingCombo",
+      "category": "Fire",
+      "description": "Dash forward, grabbing all enemies in your path before unleashing an onslaught of fireballs! [<color=#c60d0d>Fire</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseVacuumFlame",
+      "category": "Fire",
+      "description": "Hold to charge an expanding ball of fire that explodes at maximum charge! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv1 Burn</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseCombustionWave",
+      "category": "Fire",
+      "description": "Blast enemies away with a chain of explosions! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv1 Burn</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseFlameSwirl",
+      "category": "Fire",
+      "description": "Spin forward while swinging a blazing whip of flames! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv1 Burn</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseFireMinion",
+      "category": "Fire",
+      "description": "Conjure an agent of fire that engages foes with a rapid barrage of fireballs! [<color=#c60d0d>Fire</color>] [Summon]"
+    },
+    {
+      "id": "UseFireWard",
+      "category": "Fire",
+      "description": "Form a ward of fire that damages enemies and increases all fire damage done in the area! [<color=#c60d0d>Fire</color>]"
+    },
+    {
+      "id": "UseCircleBurner",
+      "category": "Fire",
+      "description": "Blast away enemies around you with a burning halo of flames! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv1 Burn</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseFlameReturner",
+      "category": "Fire",
+      "description": "Fire off a volley of arcing tracers that return to you! [<color=#c60d0d>Fire</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseFlameLeap",
+      "category": "Fire",
+      "description": "Blast into the air and come crashing down into a fiery explosion! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv2 Burn</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseFlameBuster",
+      "category": "Fire",
+      "description": "Fire off a fireball, followed by a flaming arrow that can be fused to release a burst of arrows! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv1~2 Burn</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseFlameSlash",
+      "category": "Fire",
+      "description": "Carve out a wave of flames that ignites all enemies in its path! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv1 Burn</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseExplosiveCharge",
+      "category": "Fire",
+      "description": "Charge through enemies, marking them with a timed explosive! [<color=#c60d0d>Fire</color>] [<color=#c60d0d>Lv1 Burn when Enhanced</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseFlameTrap",
+      "category": "Fire",
+      "description": "Strike the ground, creating a burning fissure that ensnares nearby enemies! [<color=#c60d0d>Fire</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseRisingDragon",
+      "category": "Fire",
+      "description": "Spiral into the sky while a flaming vortex draws in nearby foes! [<color=#c60d0d>Fire</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "MultiShot",
+      "category": "Air",
+      "description": "Release a volley of piercing winds in a cone! [<color=#4d67a0>Air</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "ShootArrow",
+      "category": "Air",
+      "description": "Unleash a quick salvo of cutting winds! [<color=#4d67a0>Air</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "ShootVacuumShot",
+      "category": "Air",
+      "description": "Release a burst of air that drafts foes and stuns them against walls! [<color=#4d67a0>Air</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "SummonTornado",
+      "category": "Air",
+      "description": "Unleash a protective vortex of fierce winds! [<color=#4d67a0>Air</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseTornadoKick",
+      "category": "Air",
+      "description": "Fly forward with a ring of tumbling winds that locks onto the first enemy struck! [<color=#4d67a0>Air</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "SwordThrow",
+      "category": "Air",
+      "description": "Hurl a rapidly revolving air current that returns to you! [<color=#4d67a0>Air</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseHeroicLeap",
+      "category": "Air",
+      "description": "Seize a foe and leap high into the air before crashing down! [<color=#4d67a0>Air</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "SummonTumbleFist",
+      "category": "Air",
+      "description": "Draw in foes with a ring of tumbling winds before striking them away! [<color=#4d67a0>Air</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseWindBall",
+      "category": "Air",
+      "description": "Hold to charge up and release a stormy ball of wind that implodes at maximum charge! [<color=#4d67a0>Air</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseBabylonScales",
+      "category": "Air",
+      "description": "Lower active cooldowns and steal speed from enemies by blasting them with a burst of air! [<color=#4d67a0>Air</color>] [<color=#4d67a0>Lv? Slow</color>] [Buff]"
+    },
+    {
+      "id": "UseWindMinion",
+      "category": "Air",
+      "description": "Conjure an agent of wind that buffets foes with whirling winds! [<color=#4d67a0>Air</color>] [<color=#512323>Melee</color>] [Summon]"
+    },
+    {
+      "id": "UseWindWard",
+      "category": "Air",
+      "description": "Summon a ward of air that slows enemies and increases all air damage done in the area! [<color=#4d67a0>Air</color>] [<color=#4d67a0>Lv? Slow</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseAirWave",
+      "category": "Air",
+      "description": "Fire off a series of sound waves that stun any enemies they strike! [<color=#4d67a0>Air</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseSlicingBarrage",
+      "category": "Air",
+      "description": "Rush forward while unleashing a flurry of wind slashes! [<color=#4d67a0>Air</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseMindControlCloud",
+      "category": "Air",
+      "description": "Charm foes around you, causing them to attack each other! [<color=#4d67a0>Air</color>]",
+      "empowered": "Enhanced: Increases Charm duration"
+    },
+    {
+      "id": "UseDragonBreath",
+      "category": "Air",
+      "description": "Summon a dragon formed of wind to draw in enemies before blasting them away! [<color=#4d67a0>Air</color>] [<color=#4d67a0>Lv? Slow</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseWhirlwind",
+      "category": "Air",
+      "description": "Rapidly spin forward and pull nearby enemies into your wake! [<color=#4d67a0>Air</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseTwister",
+      "category": "Air",
+      "description": "Unleash a slow moving burst of air that slows and damages all nearby enemies! [<color=#4d67a0>Air</color>] [<color=#4d67a0>Lv? Slow</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseWindDefense",
+      "category": "Air",
+      "description": "Summon a current of air that causes all incoming attacks to miss while you are moving or using basic arcana! [<color=#4d67a0>Air</color>] [<color=#3b4c35>No Type</color>] [Buff]"
+    },
+    {
+      "id": "UseWindSlam",
+      "category": "Air",
+      "description": "Rocket into the sky on an air jet, then slam into the ground to create a violent burst of wind! [<color=#4d67a0>Air</color>] [<color=#4d67a0>Lv? Slow</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseVortexWave",
+      "category": "Air",
+      "description": "Unleash a flowing burst of wind that forcefully lines up foes it strikes! [<color=#4d67a0>Air</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseWindFalcon",
+      "category": "Air",
+      "description": "Hurl a falcon of wind that repeatedly assails the first enemy it strikes! [<color=#4d67a0>Air</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "CircleStrike",
+      "category": "Water/Ice",
+      "description": "Summon swirling currents of water that envelop you! [<color=#3c57e0>Water</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "ThrowIceLance",
+      "category": "Water/Ice",
+      "description": "Conjure a spear of ice that impales foes and freezes them against walls! [<color=#1b78a0>Ice</color>] [<color=#1b78a0>Freeze on Walls</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "FreezingLunge",
+      "category": "Water/Ice",
+      "description": "Dash forward and conjure a colossal frozen fist to strike foes! [<color=#1b78a0>Ice</color>] [<color=#1b78a0>Freeze</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "SummonBlizzard",
+      "category": "Water/Ice",
+      "description": "Summon a storm of hail and ice shards that rains down on foes! [<color=#1b78a0>Ice</color>] [<color=#1b78a0>Chance to Freeze</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "SummonIceWave",
+      "category": "Water/Ice",
+      "description": "Conjure a series of icicles that cascade out and return to you! [<color=#1b78a0>Ice</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "SummonSwordStorm",
+      "category": "Water/Ice",
+      "description": "Conjure a rapidly revolving ring of icy blades! [<color=#1b78a0>Ice</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "SummonBubbleBarrage",
+      "category": "Water/Ice",
+      "description": "Rapidly fire a stream of explosive bubbles! [<color=#3c57e0>Water</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseWaterBall",
+      "category": "Water/Ice",
+      "description": "Hold to charge up and release a rapidly spinning ball of water that creates an explosive deluge at maximum charge! [<color=#3c57e0>Water</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "SummonShark",
+      "category": "Water/Ice",
+      "description": "Lob a frozen decoy that lures in foes and giant sharks alike! [<color=#1b78a0>Ice</color>] [<color=#1b78a0>Freeze</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseIceChakram",
+      "category": "Water/Ice",
+      "description": "Conjure snowflake chakrams that orbit outwards! [<color=#1b78a0>Ice</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseAquaBeam",
+      "category": "Water/Ice",
+      "description": "Unleash a torrent of water to blast away enemies! [<color=#3c57e0>Water</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseAquaPrison",
+      "category": "Water/Ice",
+      "description": "Fire off a prison of water that envelops the first enemy it strikes! [<color=#3c57e0>Water</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseWaterSlam",
+      "category": "Water/Ice",
+      "description": "Throw a burst of water, drawing in foes before blasting into the sky and splashing down! [<color=#3c57e0>Water</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "SummonIceSeekers",
+      "category": "Water/Ice",
+      "description": "Summon a trio of seekers that home in on and freeze nearby enemies! [<color=#1b78a0>Ice</color>] [<color=#1b78a0>Freeze</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseWaterBounce",
+      "category": "Water/Ice",
+      "description": "Throw out a bubble of water that bounces towards nearby enemies! [<color=#3c57e0>Water</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseFrostFan",
+      "category": "Water/Ice",
+      "description": "Throw out a fan of frost daggers that freeze enemies! [<color=#1b78a0>Ice</color>] [<color=#1b78a0>Freeze</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseWaterWard",
+      "category": "Water/Ice",
+      "description": "Form a ward of frost that freezes foes and increases all water damage done in the area! [<color=#3c57e0>Water</color>] [<color=#1b78a0>Freeze</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseWaterMinion",
+      "category": "Water/Ice",
+      "description": "Conjure an agent of water that douses foes with a spread of water blobs! [<color=#3c57e0>Water</color>] [Summon]"
+    },
+    {
+      "id": "UseCreepingTendril",
+      "category": "Water/Ice",
+      "description": "Creates a tendril of water that binds and travels to any foes it hits! [<color=#3c57e0>Water</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseWaterBlast",
+      "category": "Water/Ice",
+      "description": "Pull in enemies with a series of water balls, then blast them away with a massive deluge! [<color=#3c57e0>Water</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseAquaBlitz",
+      "category": "Water/Ice",
+      "description": "Blasts out a chain of water blobs before using them to pummel foes with a series of blows! [<color=#3c57e0>Water</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseAquaDragon",
+      "category": "Water/Ice",
+      "description": "Unleash a pair of watery dragons that track and assault your foes! [<color=#3c57e0>Water</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "ShootBallLightning",
+      "category": "Lightning",
+      "description": "Hold to charge up and release a devastating ball of lightning that shocks at maximum charge! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv3 Shock When Charged</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "ShootBoltClaymore",
+      "category": "Lightning",
+      "description": "Release a charged orb that can be detonated to strike all nearby foes with lightning! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv? ?% Chance to Shock</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "SummonThunderWave",
+      "category": "Lightning",
+      "description": "Generate a series of lightning strikes that shock foes! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv1 Shock</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "TeleStrike",
+      "category": "Lightning",
+      "description": "Ride a bolt of lightning to shock foes in the area! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv? Shock</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseIonSpike",
+      "category": "Lightning",
+      "description": "Generate a orb that syncs up with nearby orbs before releasing a stream of lightning! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv1 Shock</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseVoltSplinter",
+      "category": "Lightning",
+      "description": "Generate a protective ring of charged orbs that ricochet from foe to foe! [<color=#ffff00ff>Lightning</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseElectricAura",
+      "category": "Lightning",
+      "description": "Generate a field of electricity that shocks enemies that you come into contact with! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv3 Shock</color>] [<color=#3b4c35>No Type</color>] [Buff]"
+    },
+    {
+      "id": "UseShockNova",
+      "category": "Lightning",
+      "description": "Charge up and release an explosion of electricity that shocks all foes at maximum charge! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv1~2 Shock</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseLightningMinion",
+      "category": "Lightning",
+      "description": "Conjure an agent of lightning that assaults foes with a stream of lightning! [<color=#ffff00ff>Lightning</color>] [<color=#3b4c35>No Type</color>] [Summon]"
+    },
+    {
+      "id": "UseLightningWard",
+      "category": "Lightning",
+      "description": "Summon a lightning ward that shocks foes and increases all lightning damage done in the area! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv3 Shock</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseShockLine",
+      "category": "Lightning",
+      "description": "A wire of current that shocks any enemies that it comes into contact with! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv1 Shock</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseCurrentBurst",
+      "category": "Lightning",
+      "description": "An electric orb that fires a continuous lightning stream at its target! [<color=#ffff00ff>Lightning</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseLightningShuriken",
+      "category": "Lightning",
+      "description": "Hurl an electrified star that shocks any enemy it strikes! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv2 Shock</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseShockSpear",
+      "category": "Lightning",
+      "description": "Conjure a spear of lightning that bounces between enemies! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv? Shock</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseMagSphere",
+      "category": "Lightning",
+      "description": "Pull all nearby projectiles into an orbit around you! [<color=#ffff00ff>Lightning</color>] [<color=#3b4c35>No Type</color>] [Buff]"
+    },
+    {
+      "id": "UseThunderDrop",
+      "category": "Lightning",
+      "description": "Volt into the sky, then crash down on a bolt of lightning to shock all foes! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv2 Shock</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UsePiercingShock",
+      "category": "Lightning",
+      "description": "Dart forward pinning foes in your path with a piercing lightning needle! [<color=#ffff00ff>Lightning</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseThunderFan",
+      "category": "Lightning",
+      "description": "Form a double weave of shocking sparks that slowly move outward! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv3 Shock</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseThunderAnchor",
+      "category": "Lightning",
+      "description": "Throws out an anchor that generates a surge of lightning between you! [<color=#ffff00ff>Lightning</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseLightningFist",
+      "category": "Lightning",
+      "description": "Generate a stationary sphere of arcing current! [<color=#ffff00ff>Lightning</color>] [<color=#ffff00ff>Lv1 Shock</color>] [<color=#512323>Melee</color>]"
+    },
+    {
+      "id": "UseShockLace",
+      "category": "Lightning",
+      "description": "Summon a ring of lightning pins with a shocking current that laces them together! [<color=#ffff00ff>Lightning</color>] [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseLightningXStrike",
+      "category": "Lightning",
+      "description": "Fire off a pair of magnetized orbs that fly forward while bouncing off of each other! [<color=#ffff00ff>Lightning</color>] [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseVoidShift",
+      "category": "Chaos",
+      "description": "Teleport all nearby enemies into a chaos storm! [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseChaosCluster",
+      "category": "Chaos",
+      "description": "Throw out a cluster of chaos orbs that explode on landing! [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseChaosBeam",
+      "category": "Chaos",
+      "description": "Summon a beam of chaos energy! [<color=#3b4c35>No Type</color>]"
+    },
+    {
+      "id": "UseChaosEraser",
+      "category": "Chaos",
+      "description": "Throws out an orb of primal chaos that erases the first enemy hit from existence! Enemies that cannot be erased will take heavy damage instead. [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UsePhantomKnights",
+      "category": "Chaos",
+      "description": "Summon a legion of Chaos Knights that rush forth and attack enemies! [<color=#512323>Melee</color>] [Summon]"
+    },
+    {
+      "id": "UseChaosBall",
+      "category": "Chaos",
+      "description": "Hold to charge up and release an unstable cluster of chaos orbs that unleashes a barrage of strikes on any enemy hit! [<color=#214051>Projectile</color>]"
+    },
+    {
+      "id": "UseChaosSwordStorm",
+      "category": "Chaos",
+      "description": "Summon a field of void blades that rain down on foes! [<color=#3b4c35>No Type</color>]"
+    }
+  ]
+}

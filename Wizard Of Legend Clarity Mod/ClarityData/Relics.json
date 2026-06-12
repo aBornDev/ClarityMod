@@ -1,0 +1,1119 @@
+{
+  "entries": [
+    {
+      "id": "DamageUp",
+      "name": "Amulet of sundering",
+      "description": "Increases <color=#f93d09>all Damage by 8%</color>!"
+    },
+    {
+      "id": "FireDamageUp",
+      "name": "Ifrit's Matchstick",
+      "description": "Increase <color=#c60d0d>Fire damage by 12%</color>."
+    },
+    {
+      "id": "AirDamageUp",
+      "name": "Rudra's Pinwheel",
+      "description": "Increase <color=#749ecc>Air damage by 12%</color>."
+    },
+    {
+      "id": "EarthDamageUp",
+      "name": "Gaia's Shovel",
+      "description": "Increase <color=#844205>Earth damage by 12%</color>."
+    },
+    {
+      "id": "LightningDamageUp",
+      "name": "Battery Of Taranis",
+      "description": "Increase <color=#ffff00ff>Lightning damage by 12%</color>."
+    },
+    {
+      "id": "WaterDamageUp",
+      "name": "Shiva's Water Bottle",
+      "description": "Increase <color=#3c57e0>Water damage by 12%</color>. Increases <color=#1b78a0>Ice</color> some as well."
+    },
+    {
+      "id": "IceStanza",
+      "name": "Stanza of Frost",
+      "description": "Increase <color=#1b78a0>Ice damage by 15%</color>. Does NOT Increase <color=#3c57e0>Water</color> damage. First half of the [<color=#FFCC00>Poem of Fiery Rime</color>]."
+    },
+    {
+      "id": "BurnLevelUp",
+      "name": "Agni's Sparkler",
+      "description": "Increases your <color=#c60d0d>Burn</color> status effects by 1 Level! (Lv2 28 damage, Lv3 36 damage, Lv4 42 Damage, Lv5 48 damage)"
+    },
+    {
+      "id": "ShockLevelUp",
+      "name": "Indra's Copper Plate",
+      "description": "Increases your <color=#ffff00ff>Shock</color> status effects by 1 Level! (Each level adds 0.25 longer stun time from shock, and 4 extra total damage)"
+    },
+    {
+      "id": "PoisonLevelUp",
+      "name": "Devi's Bug Spray",
+      "description": "Increases your <color=#8c0497>Poison</color> status effects by 2 levels! (Lv3 <color=#8c0497>Poison</color> is 35 damage, Lv4 40 damage, Lv5 50 damage)"
+    },
+    {
+      "id": "BurnChanceUp",
+      "name": "Phoenix Talon",
+      "description": "Adds a <color=#c60d0d>6.25% chance to Burn</color> foes with all arcana!"
+    },
+    {
+      "id": "SlowChanceUp",
+      "name": "Nerite Shell",
+      "description": "Adds a <color=#749ecc>10% chance to Slow foes by 37.5% for 1.5 seconds</color> with all arcana!"
+    },
+    {
+      "id": "PoisonChanceUp",
+      "name": "Noxious Dappercap",
+      "description": "Adds a <color=#8c0497>6.25% chance to Poison</color> foes with all arcana!"
+    },
+    {
+      "id": "ShockChanceUp",
+      "name": "Tesla Coil",
+      "description": "Adds a <color=#ffff00ff>6.25% chance to Shock</color> foes with all arcana!"
+    },
+    {
+      "id": "FreezeChanceUp",
+      "name": "Permafrost Cube",
+      "description": "Adds a <color=#1b78a0>6.25% chance to Freeze</color> foes with all arcana!"
+    },
+    {
+      "id": "CritChanceUp",
+      "name": "Analytical Monocle",
+      "description": "Increases <color=#e8d925>Critical hit chance by 8%</color>!"
+    },
+    {
+      "id": "MeleeCritChanceUp",
+      "name": "Dark Katana",
+      "description": "Triples the <color=#e8d925>Critical hit chance</color> for all <color=#9d8766>Melee</color> arcana! Stacks with other Items."
+    },
+    {
+      "id": "DamageUpAtLowHealth",
+      "name": "Berserker's Helm",
+      "description": "Increases <color=#f93d09>ALL Damage by 20%</color> while below <color=#f90233>30% Health</color>!"
+    },
+    {
+      "id": "DamageUpWithSameElement",
+      "name": "Royal Flush",
+      "description": "For every arcana of the same element, increases <color=#f93d09>ALL Damage by 4%</color> for that element."
+    },
+    {
+      "id": "DamageUpWithDiffElement",
+      "name": "Captain's Ring",
+      "description": "Increases <color=#f93d09>ALL Damage by 4%</color> for every arcana of a diffrent element you have!"
+    },
+    {
+      "id": "DamageUpWithGold",
+      "name": "Dagger of Midas",
+      "description": "Every <color=#c9a110>25 Gold</color> increases <color=#f93d09>ALL Damage by 1%</color>! Caps at <color=#f93d09>20% Damage</color>! at <color=#c9a110>500 Gold</color>."
+    },
+    {
+      "id": "BuffWithFriendship",
+      "name": "Friendship Bracelet",
+      "description": "When in Co-op, Increases <color=#f93d09>ALL Damage by 8%</color>, <color=#13a835>15% Movement Speed</color>."
+    },
+    {
+      "id": "BuffWithOverdrive",
+      "name": "Autograph Pad",
+      "description": "While signature arcana is charged Increase <color=#f93d09>ALL Damage by 8%</color> and <color=#13a835>Movement Speed by 16%</color>!"
+    },
+    {
+      "id": "SevenFlushFire",
+      "name": "Neve's Ruby",
+      "description": "Holding seven <color=#c60d0d>Fire</color> arcana increases damage by 21%! All arcana <color=#c60d0d>Burn</color> foes for 16 damage over 2 seconds!"
+    },
+    {
+      "id": "SevenFlushLightning",
+      "name": "Neve's Citrine",
+      "description": "Holding seven <color=#ffff00ff>Lightning</color> arcana increases <color=#e8d925>Critical Chance</color> by 28%! All arcana <color=#ffff00ff>Shock</color> foes, Dealing 10 damage and <color=#ffff00ff>Stunning</color> for 0.625 seconds!"
+    },
+    {
+      "id": "LightningAura",
+      "name": "Sleepy Thunderstone",
+      "description": "Summons an aura that calls down <color=#ffff00ff>Lightning</color> on nearby enemies! <color=#ffff00ff>Stuns for 0.625 seconds, with 10 total damage</color>."
+    },
+    {
+      "id": "FrostAura",
+      "name": "Lotus Froststone",
+      "description": "Summons an aura that <color=#1b78a0>Freezes</color> nearby enemies!"
+    },
+    {
+      "id": "FireAura",
+      "name": "Cobalt Firestone",
+      "description": "Summons an aura that deals <color=#c60d0d>Fire Damage</color> to nearby enemies!"
+    },
+    {
+      "id": "DamageUpWithInventoryCount",
+      "name": "Merchant's Cart",
+      "description": "Increase <color=#f93d09>ALL Damage by 1.25%</color> for each relic in your inventory! (This counts towards itself)"
+    },
+    {
+      "id": "DamageUpWithKills",
+      "name": "Sinister Ledger",
+      "description": "Increases <color=#f93d09>ALL Damage by 1%</color> for every enemy defeated, but resets when taking damage! Caps at <color=#f93d09>20% Bonus Damage</color>."
+    },
+    {
+      "id": "CritAfterEvade",
+      "name": "Covert Ops Mask",
+      "description": "After <color=#b5e61d>Evadeing</color> an attack, all of your attacks are <color=#e8d925>Critical hits</color> for 3 seconds!"
+    },
+    {
+      "id": "ExplosionOnKillChance",
+      "name": "Whimsical Explodium",
+      "description": "Enemies have a <color=#c60d0d>20% chance to Explode</color> when defeated!"
+    },
+    {
+      "id": "DamageUpWithCC",
+      "name": "Hunter's Stiletto",
+      "description": "Against foes inflicted with status ailments, Increase <color=#f93d09>ALL Damage by 12%</color>!"
+    },
+    {
+      "id": "EmpowerArcanaOnStageLoad",
+      "name": "Fortune Cookie",
+      "description": "Randomly enhances an arcana at the beginning of each stage! (Effect is temporary)"
+    },
+    {
+      "id": "DamageUpWhenHurt",
+      "name": "Berserker's Axe",
+      "description": "Increases <color=#f93d09>all Damage by 20%</color>! for 3 seconds after taking damage!"
+    },
+    {
+      "id": "BasicCancelIncreasesCrit",
+      "name": "Tapping Gloves",
+      "description": "Following up a basic arcana with another arcana increases its <color=#e8d925>Critical hit chance by 25%</color>!"
+    },
+    {
+      "id": "CritUpAtLowHealth",
+      "name": "Auditor's Talisman",
+      "description": "Increases <color=#e8d925>Critical hit chance by 25%</color> when below <color=#f90233>30% Health!</color>"
+    },
+    {
+      "id": "BlackWolfCoat",
+      "name": "Ebon Wolf's Cloak",
+      "description": "Increases <color=#c60d0d>Fire</color> and <color=#ffff00ff>Lightning</color> arcana damage by 15%, but receive more damage from <color=#3c57e0>Water</color>, <color=#1b78a0>Ice</color> and <color=#844205>Earth</color> attacks!"
+    },
+    {
+      "id": "EmpowerAllArcanaAtMaxHealth",
+      "name": "Idealist's Mirror",
+      "description": "All arcana are enhanced when at full health!"
+    },
+    {
+      "id": "OverdriveDoubler",
+      "name": "Secret Wild Card",
+      "description": "Your <color=#0060f0>Signature Charges 25% Slower, Decays 50% Faster</color>, but can now be <color=#0060f0>Used twice on a single charge</color>!"
+    },
+    {
+      "id": "CritDamageUp",
+      "name": "Assassin's Blade",
+      "description": "Increases <color=#e8d925>Critical hit damage by 50%</color>! Stacks with other items, but is Additive not Multiplicative."
+    },
+    {
+      "id": "WanderersFigurine",
+      "name": "Wanderer's Mechanism",
+      "description": "Increases the damage of your <color=#0060f0>Signature arcana by 20%</color>! Core of the [<color=#FFCC00>Perfect Time Crystal</color>."
+    },
+    {
+      "id": "DamageUpWithMapReveal",
+      "name": "Cartographer's Quill",
+      "description": "Increases <color=#f93d09>ALL Damage by upto 4%</color> based on map% revealed! Damage increase stacks every floor. (No damage cap)"
+    },
+    {
+      "id": "FreezeOnKillChance",
+      "name": "Special Snowflake",
+      "description": "Defeated enemies have a <color=#c60d0d>20% chance to Explode</color> and then <color=#1b78a0>Freeze</color> nearby enemies!"
+    },
+    {
+      "id": "OutOfCombatCrit",
+      "name": "Singing Bowl",
+      "description": "Not using arcana for 7 Seconds causes your next spell to be a <color=#e8d925>Critical hit</color>!"
+    },
+    {
+      "id": "DoubleAttackChance",
+      "name": "Sidewinder's Badge",
+      "description": "All <color=#512323>melee</color> basic arcana have a secondary hit! Second hit deals <color=#512323>25% Damage</color>."
+    },
+    {
+      "id": "SuperCritChance",
+      "name": "Dice of the Nemesis",
+      "description": "Adds a 2% chance of dealing 300 bonus damage with your <color=#e8d925>Critical hits!</color>"
+    },
+    {
+      "id": "ODIncreaseOnUse",
+      "name": "Ancient Fountain Pen",
+      "description": "Your charged <color=#0060f0>Signature arcana deals 2%</color> more damage every time you use it! Caps at <color=#0060f0>40% Bonus</color>"
+    },
+    {
+      "id": "HealthUp",
+      "name": "Giant's Heart",
+      "description": "Increases <color=#f90233>Max Health by 10%</color>!"
+    },
+    {
+      "id": "ArmorUp",
+      "name": "Euphie's Shawl",
+      "description": "Reduces damage taken by 5%"
+    },
+    {
+      "id": "ArmorUpAtLowHealth",
+      "name": "Armor of Resolve",
+      "description": "When below <color=#f90233>30% Health</color>, Take 20% less damage!"
+    },
+    {
+      "id": "EvadeUp",
+      "name": "Antiquated Tabi",
+      "description": "Increases <color=#b5e61d>Evade by 8%</color>! Stacks with other <color=#b5e61d>Evade</color> items."
+    },
+    {
+      "id": "MoveSpeedUp",
+      "name": "Mercury's Sandals",
+      "description": "Increases <color=#13a835>Movement Speed by 12%</color>!"
+    },
+    {
+      "id": "IgnorePits",
+      "name": "Hummingbird Feather",
+      "description": "Briefly hover over pits!"
+    },
+    {
+      "id": "DashInvulnerability",
+      "name": "Leemo's Leaf",
+      "description": "<color=#b5e61d>Evade</color> all attacks while dashing!"
+    },
+    {
+      "id": "ShockShield",
+      "name": "Lei's Drum",
+      "description": "Release a burst of <color=#ffff00ff>Lightning</color> when taking damage! Has a 16 Second cooldown"
+    },
+    {
+      "id": "BurnImmune",
+      "name": "Super Sunscreen",
+      "description": "Prevents <color=#c60d0d>Burn</color> status effect!"
+    },
+    {
+      "id": "PoisonImmune",
+      "name": "Gummy Vitamins",
+      "description": "Prevents <color=#8c0497>Poison</color> status effect!"
+    },
+    {
+      "id": "FreezeImmune",
+      "name": "Fuzzy Handwarmers",
+      "description": "Prevents <color=#1b78a0>Freeze</color> status effect!"
+    },
+    {
+      "id": "EvadeCrit",
+      "name": "Puffy Parka",
+      "description": "<color=#b5e61d>Evade</color> all critical hits!"
+    },
+    {
+      "id": "CapDamageItem",
+      "name": "Limited Edition Robe",
+      "description": "Reduces damage received to a maximum of <color=#f90233>10% of Maximum Health</color>!"
+    },
+    {
+      "id": "HealOnPlatPickup",
+      "name": "Jewelry Box",
+      "description": "Picking up chaos gems <color=#f90233>heals for 3 Health!</color> Excludes gems collected from Council members."
+    },
+    {
+      "id": "SevenFlushAir",
+      "name": "Neve's Quartz",
+      "description": "Holding <color=#749ecc>Seven Air</color> arcana increases <color=#13a835>Movement Speed by 28%</color> and <color=#b5e61d>Evasion by 21%!</color> All arcana also <color=#749ecc>Slow foes by 50% for 1.75 seconds</color>!"
+    },
+    {
+      "id": "SevenFlushEarth",
+      "name": "Neve's Emerald",
+      "description": "Holding <color=#844205>Seven Earth</color> arcana increase <color=#f90233>Max Health by 21%</color> Reduces damage taken by 21% and lowers stun and knockback effects by 49%!"
+    },
+    {
+      "id": "PaperDefense",
+      "name": "Thesis on Defense",
+      "description": "Every point of damage received adds a page to this thesis! Every 200 pages reduces ALL DAMAGE taken by 1! (Maximum 600 pages)"
+    },
+    {
+      "id": "SequenceDefense",
+      "name": "Memory Chainmail",
+      "description": "Memorizes the last three attacks taken and reduces damage taken by 16% from attacks of the same type!"
+    },
+    {
+      "id": "OverdriveDefense",
+      "name": "Cushioned Flip-flops",
+      "description": "Damage received is expended from your <color=#0060f0>Signature</color> meter while you have sufficient charge to shield the attack!"
+    },
+    {
+      "id": "ReflectProjectileShield",
+      "name": "Mirror Shield",
+      "description": "Summons a shield that reflects one projectile! Shield breaks after reflect and respawns 18 seconds later."
+    },
+    {
+      "id": "ShieldWithOverdriveTimeOut",
+      "name": "Ring of Recycling",
+      "description": "Gain a shield every time a charged signature is not activated and times out!"
+    },
+    {
+      "id": "OverhealGrantsShield",
+      "name": "Takeout Box",
+      "description": "When healed for more than your maximum health, gain a shield equal to half of the excess heal amount!"
+    },
+    {
+      "id": "HealWithMapReveal",
+      "name": "Pathfinder's Knapsack",
+      "description": "On clearing a stage, <color=#f90233>receive a heal</color> based on the map reveal percentage!"
+    },
+    {
+      "id": "EnhanceDash",
+      "name": "Greased Boots",
+      "description": "Increases the distances traveled by dash arcana by 35%!"
+    },
+    {
+      "id": "FireResistanceUp",
+      "name": "Resolute Svalinn",
+      "description": "Reduces damage taken from <color=#c60d0d>Fire by 25%</color>."
+    },
+    {
+      "id": "WaterResistanceUp",
+      "name": "Three Gorges Bulwark",
+      "description": "Reduces damage taken from <color=#3c57e0>Water by 25%</color>."
+    },
+    {
+      "id": "EarthResistanceUp",
+      "name": "Auger of Poetry",
+      "description": "Reduces damage taken from <color=#844205>Earth by 25%</color>."
+    },
+    {
+      "id": "ElementalResistanceWithArcana",
+      "name": "Tracking Suit",
+      "description": "Arcana of matching elements reduce damage from that element! Requires two or more arcana of the same element. 5% per arcana."
+    },
+    {
+      "id": "DefenseUpOnTakeDamage",
+      "name": "Calcifying Bonemail",
+      "description": "Reduce damage taken by 20% for 3 seconds after taking damage!"
+    },
+    {
+      "id": "IncreaseBuffDuration",
+      "name": "Demi's Teapot",
+      "description": "Increases the duration of buff arcana by 40%!"
+    },
+    {
+      "id": "MoveSpeedUpPerCD",
+      "name": "Spell Thief's Socks",
+      "description": "Increase <color=#13a835>Movement Speed by 10%</color> for every arcana on cooldown."
+    },
+    {
+      "id": "OverdriveToHealth",
+      "name": "Regenerative Inkwell",
+      "description": "Using a fully charged signature arcana <color=#f90233>heals</color> you instead of producing a signature spell!"
+    },
+    {
+      "id": "ParrySidestep",
+      "name": "Bracers of the Beast",
+      "description": "Pressing forward into an attack immediately before impact allows you to guard the attack! Doing so grants <color=#0060f0>15% Signature meter</color>!"
+    },
+    {
+      "id": "ResurrectArcanaLoss",
+      "name": "Scissors of Vitality",
+      "description": "Sacrifice all standard arcana in your hand to revive from defeat! Revive with <color=#f90233>5% Health</color> per arcana lost."
+    },
+    {
+      "id": "DestroyEnemyProjectilesOnHit",
+      "name": "Deafening Cymbals",
+      "description": "Destroys all projectiles in the area when hit by a projectile!"
+    },
+    {
+      "id": "ArmorUpWithInventoryCount",
+      "name": "Heavy Travel Jacket",
+      "description": "Decreases damage taken by 1%, Plus another 1% for each relic held!"
+    },
+    {
+      "id": "EvadeUpAtLowHealth",
+      "name": "Calvin's Sandy Shoes",
+      "description": "When below <color=#f90233>30% Health</color>, Gain <color=#b5e61d>25% Evade chance</color>! Stacks with other evasion items."
+    },
+    {
+      "id": "MindControlOnHurt",
+      "name": "Charming Teddy Bear",
+      "description": "<color=#ff00aa>30% chance to Charm</color> enemies when taking damage! <color=#ff00aa>Charm</color> lasts 8 Seconds."
+    },
+    {
+      "id": "DeathProofCrown",
+      "name": "Kali's Flower Diadem",
+      "description": "When you would die, instead <color=#f90233>heal 5% Health</color>, gain full signature charge and become invincible for 3.5 seconds! Can be re-used"
+    },
+    {
+      "id": "RootShield",
+      "name": "Reactive Vinemail",
+      "description": "Releases a grove of <color=#844205>Rooting Vines</color> when taking damage! 20 second cooldown."
+    },
+    {
+      "id": "PotionPack",
+      "name": "Pazu's Favorite Hat",
+      "description": "Revive with <color=#f90233>20% Health</color> when defeated! This relic creates health orbs when dropped and is destroyed on use."
+    },
+    {
+      "id": "HealDropBoostItem",
+      "name": "Raspberry Cookie Box",
+      "description": "<color=#f90233>Health Orbs</color> drop 30% more frequently!"
+    },
+    {
+      "id": "HealOnCrit",
+      "name": "Vampire's Eyeglasses",
+      "description": "Regenerate <color=#f90233>1 Health</color> every time you land a <color=#e8d925>Critical hit!</color>"
+    },
+    {
+      "id": "InvulnerableOnMultiHurt",
+      "name": "Stygian Turtle Shell",
+      "description": "Briefly become invulnerable after taking damage in quick succession!"
+    },
+    {
+      "id": "StatueCamo",
+      "name": "Elven Ears",
+      "description": "Remaining still causes you to disappear from sight! Exiting stealth gives cooldown reduction on the first arcana used."
+    },
+    {
+      "id": "MeleeBasicNegatesProjectiles",
+      "name": "Flak Gauntlet",
+      "description": "Allows you to destroy enemy <color=#214051>Projectiles</color> with <color=#512323>Melee</color> basic arcana!"
+    },
+    {
+      "id": "MaxHealthUpOnTakeDamage",
+      "name": "Super Carrot Cake",
+      "description": "Taking damage increases your <color=#f90233>Max Health by 2</color>! Caps at <color=#f90233>75 bonus Max Health!</color>"
+    },
+    {
+      "id": "MaxHealthUpOnHeal",
+      "name": "Tea of Mercy",
+      "description": "All healing increases your <color=#f90233>Max Health by 3</color>! Caps at <color=#f90233>75 bonus Max Health!</color>"
+    },
+    {
+      "id": "ReduceCooldown",
+      "name": "Roxel's Pendulum",
+      "description": "Reduces all cooldowns by 8%!"
+    },
+    {
+      "id": "TozysPocketWatch",
+      "name": "Tozy's Pocket Watch",
+      "description": "Reduces cooldowns by 20%, but also reduces <color=#0060f0>Signature charge rate by 25%</color>!"
+    },
+    {
+      "id": "KillsLowerCDs",
+      "name": "Destructive Abacus",
+      "description": "Defeating foes lowers active cooldowns by 1 Second!"
+    },
+    {
+      "id": "KnockbackUp",
+      "name": "Mystic Monopole",
+      "description": "Increases knockback when striking foes!"
+    },
+    {
+      "id": "FireChargeFamiliarItem",
+      "name": "Igniting Sprite Vesa",
+      "description": "Summons a sprite that <color=#c60d0d>Burns</color> enemies! Only one sprite can be held at a time."
+    },
+    {
+      "id": "AirChargeFamiliarItem",
+      "name": "Blasting Sprite Aura",
+      "description": "Summons a sprite that <color=#749ecc>Slows</color> enemies! Only one sprite can be held at a time."
+    },
+    {
+      "id": "EarthChargeFamiliarItem",
+      "name": "Plaguing Sprite Dria",
+      "description": "Summons a sprite that <color=#8c0497>Poisons</color> enemies! Only one sprite can be held at a time."
+    },
+    {
+      "id": "LightningChargeFamiliarItem",
+      "name": "Sparking Sprite Etra",
+      "description": "Summons a sprite that <color=#ffff00ff>Shocks</color> enemies! Only one sprite can be held at a time."
+    },
+    {
+      "id": "WaterChargeFamiliarItem",
+      "name": "Freezing Sprite Naya",
+      "description": "Summons a sprite that <color=#1b78a0>Freeze</color> enemies! Only one sprite can be held at a time."
+    },
+    {
+      "id": "OverdriveBuildDecayDown",
+      "name": "Surefire Rocket",
+      "description": "<color=#0060f0>Signature</color> charge no longer decays while building up!"
+    },
+    {
+      "id": "OverdriveDurationUp",
+      "name": "Infinity Marble",
+      "description": "<color=#0060f0>Signature</color> charge stays active until used!"
+    },
+    {
+      "id": "OverdriveMaxAtLowHealth",
+      "name": "Hyperbolic Train",
+      "description": "<color=#0060f0>Signature charges 30% faster</color> when under <color=#f90233>30% Health!</color>"
+    },
+    {
+      "id": "HealOverdriveItem",
+      "name": "Albert's Formula",
+      "description": "Receive <color=#0060f0>Signature</color> charge when healed!"
+    },
+    {
+      "id": "SummonDamageItem",
+      "name": "Grimoire of Ruin",
+      "description": "Increases the damage of summoned agents by 20%!"
+    },
+    {
+      "id": "SummonCountItem",
+      "name": "Pop-up Primer",
+      "description": "Increases the number of summoned agents, but lowers their health by 25%!"
+    },
+    {
+      "id": "SummonDurationItem",
+      "name": "Yuna's Storybook",
+      "description": "Increases the duration of summoned agents by 25%!"
+    },
+    {
+      "id": "ExtraBasicCombo",
+      "name": "Combo Gloves",
+      "description": "Basic arcana have an extra combo!"
+    },
+    {
+      "id": "AutoBasicCombo",
+      "name": "Evening Gloves",
+      "description": "Basic arcana chains are completed automatically!"
+    },
+    {
+      "id": "ExtraSkillCharge",
+      "name": "Ring of Reserves",
+      "description": "Adds 1 more uses to all multi-use arcana!"
+    },
+    {
+      "id": "SevenFlushWater",
+      "name": "Neve's Sapphire",
+      "description": "Holding seven <color=#3c57e0>Water</color> arcana reduces all cooldowns by 28% and increases healing by 49%!"
+    },
+    {
+      "id": "AltElementLowersCD",
+      "name": "Spice Rack",
+      "description": "Using an arcana of a different element reduces the cooldown of the previously used arcana by 25%!"
+    },
+    {
+      "id": "GoldUp",
+      "name": "Glove of Midas",
+      "description": "Increase <color=#c9a110>Gold gain by 20%</color> for all wizards! Multiple gloves do not stack."
+    },
+    {
+      "id": "GoldOnTakeDamage",
+      "name": "Tears of Midas",
+      "description": "Gain <color=#c9a110>Gold</color> when taking damage!"
+    },
+    {
+      "id": "StageMap",
+      "name": "Pathfinder's Map",
+      "description": "Reveals the layout and main points of interest of the Chaos Trials!"
+    },
+    {
+      "id": "RainbowTrail",
+      "name": "Unicorn Tail",
+      "description": "Rainbows! Get to <color=#13a835>max Movement Speed 40% Faster</color>"
+    },
+    {
+      "id": "RelicDiscount",
+      "name": "Relic Rewards Card",
+      "description": "Relics cost <color=#c9a110>25% less Gold</color>"
+    },
+    {
+      "id": "SpellDiscount",
+      "name": "Arcana Rewards Card",
+      "description": "Arcana cost <color=#c9a110>25% less Gold</color>!"
+    },
+    {
+      "id": "ResetCDChance",
+      "name": "Nocturnal Sundial",
+      "description": "Adds a 10% chance that an arcana will not go on cooldown after use!"
+    },
+    {
+      "id": "DashCancelLowersCD",
+      "name": "Elemental Pointes",
+      "description": "Using a dash arcana immediately after another arcana lowers cooldowns for all arcana of the same element as your dash!"
+    },
+    {
+      "id": "FreeCooldownsAtLowHealth",
+      "name": "Phyyrnx's Hourglass",
+      "description": "Activates when taking damage below <color=#f90233>30% Health</color> and briefly removes the cooldown on all arcana!"
+    },
+    {
+      "id": "HorseMaskItem",
+      "name": "Equestricap",
+      "description": "Gain <color=#13a835>8% Movement Speed</color>, Get to max speed 60% Faster."
+    },
+    {
+      "id": "OverdriveOnTakeDamage",
+      "name": "Absorption Coil",
+      "description": "Gain <color=#0060f0>Signature charge</color> equel to 100% of damage taken!"
+    },
+    {
+      "id": "IgnoreHurtDuringCast",
+      "name": "Sano's Headband",
+      "description": "You can no longer be interrupted while activating arcana!"
+    },
+    {
+      "id": "StoreRestock",
+      "name": "Supply Crate",
+      "description": "Stores instantly restock after a purchase! Health potions are in short supply and are not restocked."
+    },
+    {
+      "id": "SlowEnemyProjectiles",
+      "name": "Dated Sunglasses",
+      "description": "Enemy <color=#214051>Projectiles</color> move 30% slower, giving you more time to react!"
+    },
+    {
+      "id": "AlwaysWinProjectiles",
+      "name": "Reinforced Bracers",
+      "description": "Your <color=#214051>Projectiles</color> destroy any other <color=#214051>Projectiles</color> they strike!"
+    },
+    {
+      "id": "BuffOnProjectileNegate",
+      "name": "Bladed Buckler",
+      "description": "Destroying an enemy projectile grants <color=#0060f0>15% Signature meter</color>!"
+    },
+    {
+      "id": "EnemyHPBars",
+      "name": "Chaos Scanner",
+      "description": "Reveals health bars for all enemies in the Chaos Trials!"
+    },
+    {
+      "id": "FreePurchaseChance",
+      "name": "Raffle Ticket",
+      "description": "Adds a 30% chance that an item purchased in the Chaos Trials will be free of charge!"
+    },
+    {
+      "id": "PortableTreasure",
+      "name": "C-99 Piggy Bank",
+      "description": "Gets heavier as you progress through the trials! Drop from inventory to open. Gives Gold and Gems! (Does not make you slower)"
+    },
+    {
+      "id": "PlateEnemyPreventSkills",
+      "name": "Conqueror's Helmet",
+      "description": "All Knights and Lancers have their spells limited! Only one Conqueror item can be in effect at a time."
+    },
+    {
+      "id": "LeatherEnemyPreventSkills",
+      "name": "Conqueror's Belt",
+      "description": "All Rogues and Archers have their spells limited! Only one Conqueror item can be in effect at a time."
+    },
+    {
+      "id": "ClothEnemyPreventSkills",
+      "name": "Conqueror's Cloak",
+      "description": "All Mages and Summoners have their spells limited! Only one Conqueror item can be in effect at a time."
+    },
+    {
+      "id": "GoldOnKillStreak",
+      "name": "Journal of Midas",
+      "description": "Gain <color=#c9a110>20% Extra Gold</color> when consecutively defeating enemies without taking damage!"
+    },
+    {
+      "id": "FreeDashChargesOnKillChance",
+      "name": "Boots of Frenzy",
+      "description": "Defeating enemies grants a 20% chance to temporarily add unlimited charges to your movement arcana! Lasts 4.5 seconds."
+    },
+    {
+      "id": "BuyWithHP",
+      "name": "Wallet of Vigor",
+      "description": "If you can't afford a item, Pay the remaining cost with your HP! If you buy a potion and you die from buying it, it does not revive you."
+    },
+    {
+      "id": "FrostFlameStanza",
+      "name": "Poem of Fiery Rime",
+      "description": "Increase <color=#c60d0d>Fire</color> and <color=#1b78a0>Ice</color> damage by 20%. ALL <color=#c60d0d>Fire</color> and <color=#1b78a0>Ice</color> Arcana can <color=#c60d0d>Burn</color> or <color=#3aa1fc>Freeze</color>. These have an additional 35% Extra chance to do so and last 50% Longer."
+    },
+    {
+      "id": "DoctorPrescription",
+      "name": "Messy Prescription",
+      "description": "Increases healing received from all sources by 40%!"
+    },
+    {
+      "id": "DoctorPlacebo",
+      "name": "Critical Placebos",
+      "description": "Increases <color=#e8d925>Critical Chance</color> by 12%"
+    },
+    {
+      "id": "DoctorDiscount",
+      "name": "Health Care Card",
+      "description": "Receive a 50% discount whenever you purchase potions from the merchant!"
+    },
+    {
+      "id": "DoctorVial",
+      "name": "Renewing Potion Vial",
+      "description": "Regain a <color=#f90233>10% Health!</color> every time you teleport to the next area!"
+    },
+    {
+      "id": "WanderersSet",
+      "name": "Perfect Time Crystal",
+      "description": "<color=#0060f0>Signature</color> damage Increased by 25%, charge rate, and decay rate are Doubled!"
+    },
+    {
+      "id": "ResurrectRing",
+      "name": "Horned Halo",
+      "description": "Revive with <color=#f90233>20% Health!</color> when defeated but consumes half of current health when picked up! This relic is destroyed on use."
+    },
+    {
+      "id": "Vampiricism",
+      "name": "Vampire's Fangs",
+      "description": "Defeating an enemy heals <color=#f90233>1% Health!</color> but reduces <color=#f90233>Max Health 40%</color>!"
+    },
+    {
+      "id": "GlassCannon",
+      "name": "Glass Cannon",
+      "description": "Damage increased by 20%, but <color=#f90233>Max Health</color> is reduced by 30%!"
+    },
+    {
+      "id": "DoubleToil",
+      "name": "Double Toil",
+      "description": "Reduces cooldowns by half but receive double damage!"
+    },
+    {
+      "id": "DoubleTrouble",
+      "name": "Double Trouble",
+      "description": "Deal double damage but receive double damage! Also cuts <color=#0060f0>Signature</color> gauge gain in half!"
+    },
+    {
+      "id": "IgnoreDashSlide",
+      "name": "Flashy Boots",
+      "description": "Allows you to triple dash but lowers <color=#13a835>Movement Speed</color> by 25%!"
+    },
+    {
+      "id": "ArmorUpLoseGoldOnHit",
+      "name": "Armor of Greed",
+      "description": "Reduces damage taken by 16%! Lose gold every time you are hit."
+    },
+    {
+      "id": "CursedSeal",
+      "name": "Anchor of Burden",
+      "description": "Increases Damage by 5% and <color=#ffff00ff>Stuns last 25% longer</color>, but recieve <color=#13a835>5% reduced Movement Speed</color> for each cursed relic owned!"
+    },
+    {
+      "id": "DamageUpVsBoss",
+      "name": "Paronomasicon",
+      "description": "Your attacks on all Bosses Deal 20% more damage! Recieve 20% damage."
+    },
+    {
+      "id": "BasicDamageUpOtherDamageDown",
+      "name": "Double Edged Cestus",
+      "description": "Increase basic arcana damage by 40%! All other arcana damage is decreased by 20%."
+    },
+    {
+      "id": "ArmorUpStorePriceUp",
+      "name": "Golden Armor of Envy",
+      "description": "Decreases Damage taken by 16%, Store prices are increased by 50%!"
+    },
+    {
+      "id": "DamageUpStorePriceUp",
+      "name": "Golden Saber of Envy",
+      "description": "Increases damage by 20%!, Store prices are increased by 50%!"
+    },
+    {
+      "id": "EnemyHealthDownEnemyDamageUp",
+      "name": "Abhorrent Cologne",
+      "description": "Enemies have 20% less health, but enemy damage is increased by 30%!"
+    },
+    {
+      "id": "PlayerEnemyCritChanceUp",
+      "name": "Crimson Clover",
+      "description": "<color=#e8d925>Critical hit chance</color> is increased for you and all enemies by 15%!"
+    },
+    {
+      "id": "ArmorUpDamageDown",
+      "name": "Tortoise Shield",
+      "description": "Decreases damage taken by 12%, Decreases damage dealt by 16%!"
+    },
+    {
+      "id": "EnemyHealthDownPlayerHealthDown",
+      "name": "Broken Plague Flask",
+      "description": "Enemy <color=#f90233>Max Health</color> is lowered by 20%, but your <color=#f90233>Max Health</color> is lowered by 20% as well!"
+    },
+    {
+      "id": "HalfGlass",
+      "name": "Tiny Crocodile Heart",
+      "description": "Reduces <color=#f90233>Max Health by 50%</color> but increases <color=#f90233>Max Health by 1%</color> for each enemy defeated!"
+    },
+    {
+      "id": "FullHPOnStartNoHeals",
+      "name": "Large Red Button",
+      "description": "Recover <color=#f90233>FULL Health</color> every time an exit portal is used! <color=#f90233>Max Health</color> is reduced by 40% and all healing has no effect."
+    },
+    {
+      "id": "HealOnStartZeroGold",
+      "name": "Overpriced Insurance",
+      "description": "Expend all gold at the start of each stage and heal for a fraction of the expended amount!"
+    },
+    {
+      "id": "WanderersDoll",
+      "name": "Volatile Gemstone",
+      "description": "<color=#0060f0>Signature</color> charge rate and decay are Trippled! but charged <color=#0060f0>Signature damage</color> is reduced by 40%! Shell of the [<color=#FFCC00>Perfect Time Crystal</color>]."
+    },
+    {
+      "id": "DamageUpNoOverdrive",
+      "name": "Sharpened Stylus",
+      "description": "Increases ALL damage dealt by 20%, <color=#0060f0>Signature</color> can no longer be charged!"
+    },
+    {
+      "id": "FireStanza",
+      "name": "Stanza of Flames",
+      "description": "All <color=#c60d0d>Fire</color> arcana cause <color=#c60d0d>Burn</color> but receive double damage from <color=#3c57e0>Water</color> spells! Second half of the [<color=#FFCC00>Poem of Fiery Rime</color>]."
+    },
+    {
+      "id": "AttackSpeedItem",
+      "name": "Silver Spinning Top",
+      "description": "Increases arcana activation speed by 40%, but also <color=#13a835>Slows Movement Speed by 40%</color>! Best used with Melee Arcana."
+    },
+    {
+      "id": "EvadeUpEnemyDamageUp",
+      "name": "Nog's Heavenly Boots",
+      "description": "Adds <color=#b5e61d>45% Evade Chance</color> but receive <color=#f93d09>Double Damage</color>!"
+    },
+    {
+      "id": "BankLoan",
+      "name": "Ominous Loan Note",
+      "description": "Gain <color=#c9a110>250 Gold</color>. Starting NEXT stage, gain <color=#c9a110>No Gold</color> untill the debt is paid."
+    },
+    {
+      "id": "NoPlatinumAllGold",
+      "name": "Alchemist's Stone",
+      "description": "All chaos gems gained during the Chaos Trials are transmuted into gold! 1 Gem is worth 3 Gold"
+    },
+    {
+      "id": "MaxHPDownRegenAtLowHP",
+      "name": "Spiked Emergency Kit",
+      "description": "Lose 40% of <color=#f90233>Max Health</color>. When under <color=#f90233>30% Health</color>, Regen 2HP per second untill at 30%. Works well with Tears of Midas."
+    },
+    {
+      "id": "PlayerStart",
+      "name": "Museum Ticket",
+      "description": "Mod created by Dawnbomb! <color=#8c0497>Twitch.tv/Dawnbomb</color> Clarity Mod version 0.7, now maintained by the community. Coding help by Zandra and Judgy."
+    },
+    {
+      "id": "PlayerWin",
+      "name": "Insignia of Legend",
+      "description": "Enables Hard Mode. Must be carried into the trials to play in Hard Mode, but can be sold mid run."
+    },
+    {
+      "id": "OnBasicFireArcItem",
+      "name": "Cabi's Cinnamon Hots",
+      "description": "Adds a 45% chance to fire off a pair of <color=#c60d0d>Dragon Arcs</color> when using basic arcana!"
+    },
+    {
+      "id": "OnBasicAirTwisterItem",
+      "name": "Cabi's Cotton Candy",
+      "description": "Adds a 45% chance to release a <color=#749ecc>Breaking Twister</color> when using basic arcana!"
+    },
+    {
+      "id": "OnBasicEarthDrillItem",
+      "name": "Cabi's Raw Chocolate",
+      "description": "Adds a 45% chance to release an <color=#844205>Earth Drill</color> when using basic arcana!"
+    },
+    {
+      "id": "OnBasicLightningStrikeItem",
+      "name": "Cabi's Citrus Sweets",
+      "description": "Adds a 45% chance to summon a <color=#ffff00ff>Lightning Strike</color> when using basic arcana!"
+    },
+    {
+      "id": "OnBasicWaterShotItem",
+      "name": "Cabi's Bubble Gum",
+      "description": "Adds a 45% chance to shoot a <color=#3c57e0>Bouncing Bubble</color> when using basic arcana!"
+    },
+    {
+      "id": "ProjectileDamageUp",
+      "name": "Gloves of Gambit",
+      "description": "Increases damage for all <color=#214051>Projectile arcana by 10%</color>!"
+    },
+    {
+      "id": "MagicianHat",
+      "name": "Magician's Top Hat",
+      "description": "Normal arcana have a 18% chance to cast as enhanced! Additionally, all arcana have a 18% chance on cast to lower their <color=#5f7dad>Cooldown by 50%</color>! Required for the [<color=#FFCC00>Magician's Outfit</color>]."
+    },
+    {
+      "id": "BaseJumpSkillDamageUp",
+      "name": "Vicious Bunny Ears",
+      "description": "Increases the base damage of all Jump arcana by 15%! Additionally, Each extra Jump arcana used within 1.5 Seconds gains another 10% Damage Bonus! This bonus does not cap, and you do not need to hit a enemy to keep it going."
+    },
+    {
+      "id": "SlowImmune",
+      "name": "Flashy Windbreaker",
+      "description": "Prevents <color=#4d67a0>Slow</color> status effect!"
+    },
+    {
+      "id": "AirResistanceUp",
+      "name": "Starchy Parachute",
+      "description": "Reduces damage taken from <color=#749ecc>Air by 25%</color>."
+    },
+    {
+      "id": "LimitedGuard",
+      "name": "Ella's Glass Kite",
+      "description": "Ignore the next 5 Hits of damage. Then, the relic breaks."
+    },
+    {
+      "id": "EvadeUpOnHurt",
+      "name": "Cassim's Airy Cloak",
+      "description": "After taking damage, become invincible for 1 Second. 20 Second cooldown."
+    },
+    {
+      "id": "ElementalResistanceUpOnHurt",
+      "name": "Prismatic Vambrace",
+      "description": "When hit by elemental damage, increase your resistance to that element PERMENANTLY by 0.05%! Caps at 25% Resistance per element."
+    },
+    {
+      "id": "ArmorHPUpWithCursedRelics",
+      "name": "Curse Eater's Vest",
+      "description": "Each cursed relic increases your <color=#9d8766>Armor by 1%</color> and <color=#f90233>Max Health by 5%</color>!"
+    },
+    {
+      "id": "JustFrameDash",
+      "name": "Lonely Soul's Boots",
+      "description": "Dashing consecutively with perfect timing <color=#5f7dad>Lowers your Cooldowns</color> and lets you <color=#13a835>zip around faster</color>!"
+    },
+    {
+      "id": "OverdriveToResetCDs",
+      "name": "Mobius Quill",
+      "description": "When you would cast your <color=#0060f0>Fully charged Signature</color>, Instead you <color=#5f7dad>Resets your Cooldowns</color>!"
+    },
+    {
+      "id": "SpeedBoostOnSurvivalClear",
+      "name": "Jumper Cables",
+      "description": "After clearing a locked room, for the next 5 Seconds gain <color=#13a835>35% Movement Speed</color> and <color=#5f7dad>75% Cooldown reduction</color>!"
+    },
+    {
+      "id": "LaserSightItem",
+      "name": "Chaos Visor",
+      "description": "Gain the ability to forsee the trajectory of your arcana!"
+    },
+    {
+      "id": "GradCap",
+      "name": "Graduation Cap",
+      "description": "Increase chaos gem gain for all wizards! (Dropping a piggy bank at the end of a run gets you more crystals tho...) Required for the [<color=#FFCC00>Prestigious Diploma</color>]."
+    },
+    {
+      "id": "ReduceCDWithCursedRelics",
+      "name": "Curse Eater's Watch",
+      "description": "Each cursed relic lowers your <color=#5f7dad>Cooldowns by 4%</color>"
+    },
+    {
+      "id": "TokenCursed",
+      "name": "Token of Doom",
+      "description": "Tempts Nox the Unfortunate to emerge in the Chaos Trials! Only one token can be held and in effect at a time."
+    },
+    {
+      "id": "TokenShuffler",
+      "name": "Token of Luck",
+      "description": "Entices Nocturne the Cardist to attend the Chaos Trials! Only one token can be held and in effect at a time."
+    },
+    {
+      "id": "TokenDoctor",
+      "name": "Token of Health",
+      "description": "Pages Doctor Song to the Chaos Trials! Only one token can be held and in effect at a time."
+    },
+    {
+      "id": "TokenTailor",
+      "name": "Token of Elegance",
+      "description": "Books Savile the Tailor to visit the Chaos Trials! Only one token can be held and in effect at a time."
+    },
+    {
+      "id": "TokenCollector",
+      "name": "Token of Commerce",
+      "description": "Calls Cremire the Collector to case the Chaos Trials! Only one token can be held and in effect at a time."
+    },
+    {
+      "id": "TokenBanker",
+      "name": "Token of Wealth",
+      "description": "Plies Doki the Banker to appear in the Chaos Trials! Only one token can be held and in effect at a time."
+    },
+    {
+      "id": "TokenPinata",
+      "name": "Token of Triumph",
+      "description": "Summons Taffy the Pinata to the Chaos Trials! Only one token can be held and in effect at a time."
+    },
+    {
+      "id": "CritHealChanceUp",
+      "name": "Catalystic Tonic",
+      "description": "Get a <color=#f90233>15% Chance</color> of receiving a <color=#f90233>Critical Heal</color>!"
+    },
+    {
+      "id": "GradSet",
+      "name": "Prestigious Diploma",
+      "description": "Doubles Gem drop rate. Doubles Relic drop rate. Increases <color=#c9a110>Gold Gain by 20%</color>. All effects apply to all wizards, but does not stack with similuar effects."
+    },
+    {
+      "id": "MagicianSet",
+      "name": "Magician's Outfit",
+      "description": "Normal arcana have a 30% chance to cast as enhanced! Additionally, all arcana have a 30% chance on cast to lower their <color=#5f7dad>Cooldown by 50%</color>! Increases <color=#f93d09>ALL Damage by 20%</color>!"
+    },
+    {
+      "id": "ArcanaBalancer",
+      "name": "Titan's Equilibrium",
+      "description": "Unenhanced arcana gain <color=#f93d09>20% Damage</color> and <color=#5f7dad>25% Cooldown Reduction</color>! Enhanced arcana LOSE <color=#f93d09>20% Damage</color> and <color=#5f7dad>25% Cooldown Reduction</color>!"
+    },
+    {
+      "id": "PermaOverdrive",
+      "name": "Anemic Marker",
+      "description": "Your signature arcana is permanently activated, but deals <color=#f93d09>20% Less Damage</color> and has a <color=#5f7dad>50% Longer Cooldown</color>, and gets EVEN LONGER by <color=#5f7dad>15% per Cast</color>!"
+    },
+    {
+      "id": "GradBouquet",
+      "name": "Graduation Bouquet",
+      "description": "All Wizards Gain <color=#c9a110>DOUBLE GOLD</color> but halfs your relic drop chance. Does not stack with similuar effects. Required for the [<color=#FFCC00>Prestigious Diploma</color>]."
+    },
+    {
+      "id": "MagicianWand",
+      "name": "Magician's Wand",
+      "description": "Increases <color=#f93d09>ALL Damage by 20%</color> but lowers the activation speed of all arcana by 30%! Required for the [<color=#FFCC00>Magician's Outfit</color>]."
+    },
+    {
+      "id": "ReduceCDReduceDamage",
+      "name": "Cruel Chess Clock",
+      "description": "Reduces <color=#5f7dad>Cooldown by 50%</color> but deal <color=#f93d09>30% Less Damage</color>!"
+    },
+    {
+      "id": "UnicornMask",
+      "name": "Unicorn Disguise",
+      "description": "Gain <color=#13a835>10% Movement Speed</color> and achieve max speed <color=#13a835>75% Faster</color>!"
+    },
+    {
+      "id": "FlatDamage",
+      "name": "Rules of Contingency",
+      "description": "Makes <color=#f93d09>ALL DAMAGE dealt and taken deal exactly 99 damage</color>!"
+    },
+    {
+      "id": "NoRandomPits",
+      "name": "Makeshift Bridge",
+      "description": "Pits no longer appear in hallways, but you take <color=#f93d09>10% more Damage</color> from pitfalls! (They still appear in battle rooms)."
+    },
+    {
+      "id": "RandomSkillAfterUse",
+      "name": "Aberrant Deck",
+      "description": "Shops have a <color=#c9a110>75% Discount</color>! However... Spells <color=#94DE40>BREAK</color> when their <color=#94DE40>Uses hit Zero</color>! <color=#94DE40>Broken Spells</color> are randomly replaced with a new ones! Basic Uses: 15. Dash Uses: 12. Spell Uses: 5. HUB only."
+    },
+    {
+      "id": "OneHPOneDamage",
+      "name": "Chaotic Comedy",
+      "description": "Turns on <color=#EF1414>INSTANT DEATH MODE</color> where all players and enemies are defeated in one punch! HUB Only."
+    },
+    {
+      "id": "RandomExplosiveBarrels",
+      "name": "Conga Drum Set",
+      "description": "Spawns explosive barrels randomly throughout the trials! HUB only."
+    },
+    {
+      "id": "LoseArcanaRelicOnHurtChance",
+      "name": "Rulebook of Thieves",
+      "description": "All shops have a <color=#c9a110>75% OFF SALE</color>!. Enemies have a <color=#6CCE09>25% Chance to Steal</color> your spells or relics when hit!. HUB Only."
+    },
+    {
+      "id": "ReduceCDPlayerEnemy",
+      "name": "Chaotic Pendulum",
+      "description": "All Wizards and Enemies have <color=#5f7dad>75% Lower Cooldowns</color>. Enemies gain <color=#13a835>25% Movement Speed</color>, Their Spells deal <color=#f93d09>25% More Damage</color> and are <color=#0060f0>Cast 25% Faster</color>! HUB Only."
+    },
+    {
+      "id": "EnemyPlayerMoveSpeedUp",
+      "name": "Quantum Capacitor",
+      "description": "You gain <color=#13a835>40%Movement Speed</color>. ALL Enemies gain <color=#13a835>50%Movement Speed</color> and their spells <color=#0060f0>Cast 25% Faster</color>! HUB Only."
+    },
+    {
+      "id": "RandomElementalEnemies",
+      "name": "Melting Pot",
+      "description": "Gain 25% resistance to all the elements! Any enemy can appear on any stage. HUB Only."
+    },
+    {
+      "id": "OverdriveFromDestructibles",
+      "name": "Broken Stress Ball",
+      "description": "Gain <color=#0060f0>Signature Charge</color> from attacking destructibles!"
+    }
+  ]
+}
